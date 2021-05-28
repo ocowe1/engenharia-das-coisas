@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1f7c35c0-076f-4885-a551-914d2164f0d5" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="EDC" />
+  </component>
+  <component name="ProjectId" id="1Qb8lad7gN7ssSRt9DOZJKUEZk4" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/projects" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\EDC\application\views\telas\user" />
+      <recent name="C:\xampp\htdocs\EDC\application\views\telas" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\EDC\application\views\telas\user" />
+      <recent name="C:\xampp\htdocs\EDC\application\views" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="allServicesViewState">
+      <serviceView>
+        <treeState>
+          <expand />
+          <select />
+        </treeState>
+      </serviceView>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1f7c35c0-076f-4885-a551-914d2164f0d5" name="Default Changelist" comment="" />
+      <created>1568028086485</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568028086485</updated>
+      <workItem from="1568028088135" duration="10859000" />
+      <workItem from="1568052002465" duration="652000" />
+      <workItem from="1568052767488" duration="11288000" />
+      <workItem from="1568398452721" duration="7488000" />
+      <workItem from="1568720430922" duration="22437000" />
+      <workItem from="1568894215390" duration="18563000" />
+      <workItem from="1568979531932" duration="8889000" />
+      <workItem from="1569002813836" duration="218000" />
+      <workItem from="1569005502191" duration="297000" />
+      <workItem from="1569005806608" duration="8000" />
+      <workItem from="1569582880832" duration="128000" />
+      <workItem from="1569583032986" duration="13367000" />
+      <workItem from="1569840827663" duration="5569000" />
+      <workItem from="1569848381446" duration="3280000" />
+      <workItem from="1569851685881" duration="29492000" />
+      <workItem from="1570113946208" duration="12412000" />
+      <workItem from="1570535535335" duration="29695000" />
+      <workItem from="1570706735489" duration="4707000" />
+      <workItem from="1570712686882" duration="32364000" />
+      <workItem from="1570807196126" duration="1319000" />
+      <workItem from="1570818430774" duration="5852000" />
+      <workItem from="1571051146244" duration="44083000" />
+      <workItem from="1571342904841" duration="58012000" />
+      <workItem from="1571937688573" duration="13112000" />
+      <workItem from="1572007721303" duration="7551000" />
+      <workItem from="1572260195350" duration="13648000" />
+      <workItem from="1572280990815" duration="4310000" />
+      <workItem from="1572353117782" duration="19795000" />
+      <workItem from="1572521374294" duration="2166000" />
+      <workItem from="1572532068828" duration="2127000" />
+      <workItem from="1572606865921" duration="5473000" />
+      <workItem from="1572613964897" duration="5768000" />
+      <workItem from="1573040985220" duration="4447000" />
+      <workItem from="1573472709439" duration="2513000" />
+      <workItem from="1573646999185" duration="252000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/application/controllers/Professor.php</url>
+          <line>702</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
